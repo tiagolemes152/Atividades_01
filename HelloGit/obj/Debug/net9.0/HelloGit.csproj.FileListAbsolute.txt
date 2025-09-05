@@ -1,0 +1,15 @@
+C:\Users\tiago\teste\HelloGit\bin\Debug\net9.0\HelloGit.exe
+C:\Users\tiago\teste\HelloGit\bin\Debug\net9.0\HelloGit.deps.json
+C:\Users\tiago\teste\HelloGit\bin\Debug\net9.0\HelloGit.runtimeconfig.json
+C:\Users\tiago\teste\HelloGit\bin\Debug\net9.0\HelloGit.dll
+C:\Users\tiago\teste\HelloGit\bin\Debug\net9.0\HelloGit.pdb
+C:\Users\tiago\teste\HelloGit\obj\Debug\net9.0\HelloGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\teste\HelloGit\obj\Debug\net9.0\HelloGit.AssemblyInfoInputs.cache
+C:\Users\tiago\teste\HelloGit\obj\Debug\net9.0\HelloGit.AssemblyInfo.cs
+C:\Users\tiago\teste\HelloGit\obj\Debug\net9.0\HelloGit.csproj.CoreCompileInputs.cache
+C:\Users\tiago\teste\HelloGit\obj\Debug\net9.0\HelloGit.sourcelink.json
+C:\Users\tiago\teste\HelloGit\obj\Debug\net9.0\HelloGit.dll
+C:\Users\tiago\teste\HelloGit\obj\Debug\net9.0\refint\HelloGit.dll
+C:\Users\tiago\teste\HelloGit\obj\Debug\net9.0\HelloGit.pdb
+C:\Users\tiago\teste\HelloGit\obj\Debug\net9.0\HelloGit.genruntimeconfig.cache
+C:\Users\tiago\teste\HelloGit\obj\Debug\net9.0\ref\HelloGit.dll
